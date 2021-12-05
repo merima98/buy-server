@@ -1,0 +1,12 @@
+C:\Users\HOME\Desktop\buy-server\Buy.Models\bin\Debug\netcoreapp3.1\Buy.Models.deps.json
+C:\Users\HOME\Desktop\buy-server\Buy.Models\bin\Debug\netcoreapp3.1\Buy.Models.runtimeconfig.json
+C:\Users\HOME\Desktop\buy-server\Buy.Models\bin\Debug\netcoreapp3.1\Buy.Models.runtimeconfig.dev.json
+C:\Users\HOME\Desktop\buy-server\Buy.Models\bin\Debug\netcoreapp3.1\Buy.Models.dll
+C:\Users\HOME\Desktop\buy-server\Buy.Models\bin\Debug\netcoreapp3.1\Buy.Models.pdb
+C:\Users\HOME\Desktop\buy-server\Buy.Models\obj\Debug\netcoreapp3.1\Buy.Models.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\buy-server\Buy.Models\obj\Debug\netcoreapp3.1\Buy.Models.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\buy-server\Buy.Models\obj\Debug\netcoreapp3.1\Buy.Models.AssemblyInfo.cs
+C:\Users\HOME\Desktop\buy-server\Buy.Models\obj\Debug\netcoreapp3.1\Buy.Models.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\buy-server\Buy.Models\obj\Debug\netcoreapp3.1\Buy.Models.dll
+C:\Users\HOME\Desktop\buy-server\Buy.Models\obj\Debug\netcoreapp3.1\Buy.Models.pdb
+C:\Users\HOME\Desktop\buy-server\Buy.Models\obj\Debug\netcoreapp3.1\Buy.Models.genruntimeconfig.cache

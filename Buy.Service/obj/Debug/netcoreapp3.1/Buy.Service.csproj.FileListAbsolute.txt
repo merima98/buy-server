@@ -1,0 +1,16 @@
+C:\Users\HOME\Desktop\buy-server\Buy.Service\bin\Debug\netcoreapp3.1\Buy.Service.deps.json
+C:\Users\HOME\Desktop\buy-server\Buy.Service\bin\Debug\netcoreapp3.1\Buy.Service.dll
+C:\Users\HOME\Desktop\buy-server\Buy.Service\bin\Debug\netcoreapp3.1\Buy.Service.pdb
+C:\Users\HOME\Desktop\buy-server\Buy.Service\bin\Debug\netcoreapp3.1\Buy.IRepository.dll
+C:\Users\HOME\Desktop\buy-server\Buy.Service\bin\Debug\netcoreapp3.1\Buy.IService.dll
+C:\Users\HOME\Desktop\buy-server\Buy.Service\bin\Debug\netcoreapp3.1\Buy.Models.dll
+C:\Users\HOME\Desktop\buy-server\Buy.Service\bin\Debug\netcoreapp3.1\Buy.IService.pdb
+C:\Users\HOME\Desktop\buy-server\Buy.Service\bin\Debug\netcoreapp3.1\Buy.IRepository.pdb
+C:\Users\HOME\Desktop\buy-server\Buy.Service\bin\Debug\netcoreapp3.1\Buy.Models.pdb
+C:\Users\HOME\Desktop\buy-server\Buy.Service\obj\Debug\netcoreapp3.1\Buy.Service.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\buy-server\Buy.Service\obj\Debug\netcoreapp3.1\Buy.Service.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\buy-server\Buy.Service\obj\Debug\netcoreapp3.1\Buy.Service.AssemblyInfo.cs
+C:\Users\HOME\Desktop\buy-server\Buy.Service\obj\Debug\netcoreapp3.1\Buy.Service.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\buy-server\Buy.Service\obj\Debug\netcoreapp3.1\Buy.Service.csproj.CopyComplete
+C:\Users\HOME\Desktop\buy-server\Buy.Service\obj\Debug\netcoreapp3.1\Buy.Service.dll
+C:\Users\HOME\Desktop\buy-server\Buy.Service\obj\Debug\netcoreapp3.1\Buy.Service.pdb

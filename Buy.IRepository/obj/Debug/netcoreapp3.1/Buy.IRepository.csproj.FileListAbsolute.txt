@@ -1,0 +1,12 @@
+C:\Users\HOME\Desktop\buy-server\Buy.IRepository\bin\Debug\netcoreapp3.1\Buy.IRepository.deps.json
+C:\Users\HOME\Desktop\buy-server\Buy.IRepository\bin\Debug\netcoreapp3.1\Buy.IRepository.dll
+C:\Users\HOME\Desktop\buy-server\Buy.IRepository\bin\Debug\netcoreapp3.1\Buy.IRepository.pdb
+C:\Users\HOME\Desktop\buy-server\Buy.IRepository\bin\Debug\netcoreapp3.1\Buy.Models.dll
+C:\Users\HOME\Desktop\buy-server\Buy.IRepository\bin\Debug\netcoreapp3.1\Buy.Models.pdb
+C:\Users\HOME\Desktop\buy-server\Buy.IRepository\obj\Debug\netcoreapp3.1\Buy.IRepository.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\buy-server\Buy.IRepository\obj\Debug\netcoreapp3.1\Buy.IRepository.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\buy-server\Buy.IRepository\obj\Debug\netcoreapp3.1\Buy.IRepository.AssemblyInfo.cs
+C:\Users\HOME\Desktop\buy-server\Buy.IRepository\obj\Debug\netcoreapp3.1\Buy.IRepository.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\buy-server\Buy.IRepository\obj\Debug\netcoreapp3.1\Buy.IRepository.csproj.CopyComplete
+C:\Users\HOME\Desktop\buy-server\Buy.IRepository\obj\Debug\netcoreapp3.1\Buy.IRepository.dll
+C:\Users\HOME\Desktop\buy-server\Buy.IRepository\obj\Debug\netcoreapp3.1\Buy.IRepository.pdb

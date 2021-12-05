@@ -1,0 +1,14 @@
+C:\Users\HOME\Desktop\buy-server\Buy.IService\bin\Debug\netcoreapp3.1\Buy.IService.deps.json
+C:\Users\HOME\Desktop\buy-server\Buy.IService\bin\Debug\netcoreapp3.1\Buy.IService.dll
+C:\Users\HOME\Desktop\buy-server\Buy.IService\bin\Debug\netcoreapp3.1\Buy.IService.pdb
+C:\Users\HOME\Desktop\buy-server\Buy.IService\bin\Debug\netcoreapp3.1\Buy.IRepository.dll
+C:\Users\HOME\Desktop\buy-server\Buy.IService\bin\Debug\netcoreapp3.1\Buy.Models.dll
+C:\Users\HOME\Desktop\buy-server\Buy.IService\bin\Debug\netcoreapp3.1\Buy.IRepository.pdb
+C:\Users\HOME\Desktop\buy-server\Buy.IService\bin\Debug\netcoreapp3.1\Buy.Models.pdb
+C:\Users\HOME\Desktop\buy-server\Buy.IService\obj\Debug\netcoreapp3.1\Buy.IService.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\buy-server\Buy.IService\obj\Debug\netcoreapp3.1\Buy.IService.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\buy-server\Buy.IService\obj\Debug\netcoreapp3.1\Buy.IService.AssemblyInfo.cs
+C:\Users\HOME\Desktop\buy-server\Buy.IService\obj\Debug\netcoreapp3.1\Buy.IService.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\buy-server\Buy.IService\obj\Debug\netcoreapp3.1\Buy.IService.csproj.CopyComplete
+C:\Users\HOME\Desktop\buy-server\Buy.IService\obj\Debug\netcoreapp3.1\Buy.IService.dll
+C:\Users\HOME\Desktop\buy-server\Buy.IService\obj\Debug\netcoreapp3.1\Buy.IService.pdb
