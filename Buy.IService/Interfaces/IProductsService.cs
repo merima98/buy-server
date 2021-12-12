@@ -14,5 +14,11 @@ namespace Buy.IService.Interfaces
         /// </summary>
         /// <returns></returns>
         Task<List<Product>> GetProducts();
+
+        /// <summary>
+        /// Returns single product filtered per ID.
+        /// </summary>
+        /// <returns></returns>
+        Product GetProductById(Guid productId);
     }
 }

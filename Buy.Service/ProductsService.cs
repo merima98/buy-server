@@ -14,6 +14,12 @@ namespace Buy.Service
         {
             _productsRepository = productsRepository;
         }
+
+        public Product GetProductById(Guid productId)
+        {
+            return _productsRepository.GetProductById(productId);
+        }
+
         public Task<List<Product>> GetProducts()
         {
             return _productsRepository.GetProducts();

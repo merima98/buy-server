@@ -5,18 +5,11 @@ using Buy.Repository;
 using Buy.Service;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace Buy.Api
 {
@@ -33,7 +26,14 @@ namespace Buy.Api
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
-            services.AddCors();
+
+            services.AddCors(options =>
+            options.AddDefaultPolicy
+            (builder => builder.AllowAnyOrigin()
+            .AllowAnyMethod()
+            .AllowAnyHeader()
+            ));
+
             services.AddSwaggerGen(options =>
             {
                 options.SwaggerDoc("v1", new OpenApiInfo
@@ -61,9 +61,9 @@ namespace Buy.Api
                 app.UseSwaggerUI();
             }
             app.UseCors(options =>
-   options.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
+            options.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
 
-            app.UseSwagger(); 
+            app.UseSwagger();
 
             app.UseSwaggerUI(options =>
             {
@@ -74,6 +74,8 @@ namespace Buy.Api
 
             app.UseRouting();
 
+            app.UseCors(options => options.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
+
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
@@ -81,7 +83,6 @@ namespace Buy.Api
                 endpoints.MapControllers();
             });
 
-           
         }
     }
 }

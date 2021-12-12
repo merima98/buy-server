@@ -16,6 +16,11 @@ namespace Buy.Repository
             _buyPlatformContext = buyPlatformContext;
         }
 
+        public Product GetProductById(Guid productId)
+        {
+            return _buyPlatformContext.Products.Find(productId);
+        }
+
         public Task<List<Product>> GetProducts()
         {
             return Task.FromResult(_buyPlatformContext.Products.ToList());

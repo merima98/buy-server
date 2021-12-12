@@ -13,5 +13,7 @@ namespace Buy.IRepository.Interfaces
         /// </summary>
         /// <returns></returns>
         Task<List<Product>> GetProducts();
+
+        Product GetProductById(Guid productId);
     }
 }

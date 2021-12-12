@@ -25,5 +25,11 @@ namespace Buy.Api.Controllers
         {
             return _productsService.GetProducts();
         }
+
+        [HttpGet("{productId}")]
+        public Product GetProductById(Guid productId)
+        {
+            return _productsService.GetProductById(productId);
+        }
     }
 }
